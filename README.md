@@ -58,8 +58,13 @@ Identifying patterns of behavior of certain user groups,
 <br>
 predicting user leaving based on their behavior.
 
-### [Project Name](link_to_project)
-Description: Brief description of the project.
+### [Mobile app A/B test](link_to_project)
+_Description_: 
+<br>
+A/B test of making changes to the mobile application,which allows
+decide whether it is advisable to apply the experimental version
+based on the analysis of the target metrics (retention of the first and seventh days)
+and user's funnels comparison.
 
 ### [Project Name](link_to_project)
 Description: Brief description of the project.
