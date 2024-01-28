@@ -1,19 +1,4 @@
 
-<!--
-**ke103rga/ke103rga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">George</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Data anlyst</h3>
@@ -52,29 +37,48 @@ Here are some ideas to get you started:
 ### [Users outflow research](https://www.kaggle.com/code/georger174/users-outflow-research)
 _Description_: 
 <br>
-Analyzing the behavior of online course users based on anonymized logs, 
-<br>
-Identifying patterns of behavior of certain user groups, 
-<br>
-predicting user leaving based on their behavior.
+Analysis of the behavior of online course users based on anonymized logs, which includes such steps:
+- Identify patterns of behavior of certain user groups
+- Predict user leaving based on their behavior
+- Develope ML model for preventing users leaving
+- Put forward recommendations for increase retention and reduce user churn
 
-### [Mobile app A/B test](link_to_project)
+### [Mobile app A/B test](https://www.kaggle.com/code/georger174/cookie-cats-a-b-test)
 _Description_: 
 <br>
-A/B test of making changes to the mobile application,which allows
-decide whether it is advisable to apply the experimental version
-based on the analysis of the target metrics (retention of the first and seventh days)
-and user's funnels comparison.
+Analysis of the A/B test results, which includes such steps:
+- Comparison of conversion path for both of groups
+- Analysis of target metric
+- Verification of statistical hypotheses
+- Making a decision whether it is advisable to apply the experimental version
 
-### [Project Name](link_to_project)
-Description: Brief description of the project.
+### [Cohort Analysis](https://www.kaggle.com/code/georger174/cohort-analysis)
+_Description_: 
+<br>
+Deep analysis of sales data, whivh includes intelligence and cohort analysis and on such basis:
+- Compare user behavior patterns in different time periods
+- Evaluate the dynamics of churn and user engagement
+- Predict the company's profit taking into account different indicators
+- Put forward recommendations for preserving and increasing the profit
 
 
+### [Job Market Dashboard](https://public.tableau.com/app/profile/george.raz/viz/VacanciesAnalizing/VacanciesAnalize?publish=yes)
+_Description_: 
+<br>
+Dashboard which represents results of jod market research in 'Data Science' sphere.
+<br>
+It can answer all the the most important questions like:
+- How much does each specialist earn in that sphere
+- What are the chances of a novice specialist finding a job
+- What skills should a specialist have to hire in each individual industry
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+There are a lot of other complex projects on [kaggle](https://www.kaggle.com/georger174/code) and [github](https://github.com/ke103rga?tab=repositories)
+
 
 ## Github statistics
 
-Карточка профиля: 
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ke103rga&theme=solarized_dark)
+
+## Leetcode statistics
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
